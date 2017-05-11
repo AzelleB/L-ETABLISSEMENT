@@ -1,0 +1,23 @@
+ body { 
+  background: #5F9EA0;
+  font-family:sans-serif;
+  text-align:justify;
+  }
+   
+  h1 { 
+text-align: center;
+margin-top: 1em;
+  }
+
+td{
+	text-align: center;
+	border: 1px solid black;
+}
+
+table{
+	border-collapse: collapse;
+	margin:auto;
+}
+blockquote{
+	text-align: center;
+}

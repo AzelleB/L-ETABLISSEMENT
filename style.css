@@ -1,0 +1,17 @@
+body { 
+  background: #5F9EA0;
+  font-family:sans-serif;
+  text-align:justify;
+  }
+   
+  h1 { 
+  border:thin solid #5F9EA0;
+  background: white; 
+  position: absolute;
+  margin:0em 6em 2em;
+  padding:1.5em;
+  padding-left: 15em;
+  color:#5F9EA0;
+  }
+  
+  

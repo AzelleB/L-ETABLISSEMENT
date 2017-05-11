@@ -1,0 +1,28 @@
+ body { 
+  background: #5F9EA0;
+  font-family:sans-serif;
+  text-align:justify;
+  }
+  
+   h1 { 
+	margin-top: 1em;
+   text-align: center;
+  }
+  
+   blockquote{
+ text-indent:1em;
+ padding: 5em;
+  }
+  
+ select{
+	margin-left: 36em;
+}
+
+input{
+margin-left: 43em;
+}
+
+
+p{
+margin-left: 37em;
+}

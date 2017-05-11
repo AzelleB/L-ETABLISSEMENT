@@ -1,0 +1,45 @@
+ body { 
+  background: #5F9EA0;
+  font-family:sans-serif;
+  text-align:justify;
+  }
+   
+  h1 { 
+  border:thin solid #5F9EA0;
+  background: white; 
+  position: absolute;
+  margin:0em 8em 2em;
+  padding:1.5em;
+  padding-left: 15em;
+  color:#5F9EA0;
+  }
+  
+  blockquote{
+ text-indent:1em;
+ padding: 10em;
+  }
+  
+ nav.menu { 
+  position:fixed;
+  left:30%;
+  top:40%;
+  width:40%;
+  background:white;
+  border:#5F9EA0;
+}
+div.eltmenu { 
+  display:block;
+  padding:5px;
+  border: 2px outset rgb(230,230,255);
+}
+div.eltmenu:hover { 
+  border-style: inset;
+}
+nav.menu a:link { 
+  text-decoration:none; 
+}
+a:link,a:hover,a:visited,a:visited:hover { 
+  color:black; 
+} 
+
+

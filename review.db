@@ -1,0 +1,8 @@
+CREATE TABLE REVIEWS (
+   NAME TEXT,
+   STARS INT,
+   REVIEW TEXT
+);
+
+INSERT INTO REVIEWS VALUES ('Sophie','Vraiment déçu...');
+INSERT INTO REVIEWS VALUES ('Thomas','Etablissement très propre, professeur sympa');
